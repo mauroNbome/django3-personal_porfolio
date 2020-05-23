@@ -25,7 +25,7 @@ SECRET_KEY = '_-%qiv*m9-q8t6^d8(is9+p-%ih+1s*i0b9zb*yr_6g1t((u2&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['fulleb.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.maurorios.com']
 
 
 # Application definition
